@@ -37,4 +37,4 @@ Powerful **Spotify Adblock Studio** licensing suite providing silent activation,
 
 ## A note on usage
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.  
+> Provided for educational and utility purposes only. Use at your own discretion.   
